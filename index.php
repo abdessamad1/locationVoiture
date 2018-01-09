@@ -23,7 +23,7 @@
 		<div class="container table">
 
 			<div class="navbar">
-				<span class="ts">Abdou<span class="main-color">Kaid</span></span>
+				<span class="ts">Abdou<span class="main-color">Kaid Studio</span></span>
 				<span class="links">
 					<ul>
 						<li class="hom ac"><i class="fa fa-home fa-lg" aria-hidden="true"></i> Home</li>
