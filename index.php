@@ -3,17 +3,6 @@
 <head>
 	<meta charset="utf-8">
 	<title>Abdou Kaid</title>
-	<!-- very nice reset -->
-	<link rel="stylesheet" href="css/normalize.css">
-	<!-- fonts awesome -->
-	<link rel="stylesheet" href="css/font-awesome.min.css">
-	<!-- google fonts -->
-	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700">
-	<!-- file css style -->
-	<link rel="stylesheet" href="css/main.css">
-	<link rel="stylesheet" href="css/media.css">
-	<!-- Google Web Font -->
-	<link rel="stylesheet" href="http://fonts.googleapis.com/earlyaccess/droidarabickufi.css">
 </head>
 <body>
 
@@ -322,10 +311,5 @@
 </div>
 <!-- End Footer -->
 
-<!-- JQuery -->
-<script src="js/jquery-3.2.1.min.js"></script>
-<script src="js/jquery.nicescroll.min.js"></script>
-<!-- My Js Plugins -->
-<script src="js/plugins.js"></script>
 </body>
 </html>
